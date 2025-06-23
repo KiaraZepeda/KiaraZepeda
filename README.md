@@ -8,7 +8,7 @@
 - SQL (MySQL)
 - Python (Pandas, NumPy, Matplotlib)
 - Tableau, Excel
-- Machine Learning (Random Forest, GRU)
+- Machine Learning 
 
 ## 📌 Featured Projects
 - [⚡ Energy Forecasting Capstone](https://github.com/KiaraZepeda/Predicting-Arizona-s-Energy-Requirements)
