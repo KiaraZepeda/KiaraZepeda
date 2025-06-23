@@ -1,9 +1,9 @@
 
 # Welcome 👋
 
-🎓 ASU Data Science graduate with a focus on mathematics  
-🦇 Interested in heathcare, mortuary science, life science, finance, and biodiversity
-📊 Passionate about turning data into insights using SQL, Python, and Tableau  
+- 🎓 ASU Data Science graduate with a focus on mathematics  
+- 🦇 Interested in heathcare, mortuary science, life science, finance, and biodiversity
+- 📊 Passionate about turning data into insights using SQL, Python, and Tableau  
 
 ## 🔧 Tools & Skills
 - SQL (MySQL)
